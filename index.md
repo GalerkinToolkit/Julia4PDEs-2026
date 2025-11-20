@@ -1,6 +1,6 @@
 ---
 layout: index
-description: Conference description
+description: Vrije Universiteit Amsterdam - 26-27 March 2026
 ---
 
-Conference abstract
+Community workshop for developers of Julia Finite Element packages.
