@@ -12,4 +12,4 @@ HPC, as well as applications like aerospace, civil engineering, and computationa
 A central theme will be to align efforts within the
 community, learn from each other, and identify opportunities for collaboration.
 
-* **Where**: Vrij Universiteit Amsterdam, NU building. See on the map [here](/map)>.
+* **Where**: Vrij Universiteit Amsterdam, NU building. See on the map [here](/map).
