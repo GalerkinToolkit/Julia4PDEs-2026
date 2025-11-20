@@ -11,3 +11,5 @@ community that includes researchers from different domains such as applied mathe
 HPC, as well as applications like aerospace, civil engineering, and computational physics.
 A central theme will be to align efforts within the
 community, learn from each other, and identify opportunities for collaboration.
+
+* **Where**: Vrij Universiteit Amsterdam, NU building. See on the map [here](/map)>.
