@@ -1,7 +1,7 @@
 title: Julia Finite Element Community Conference
 description: Vrije Universiteit Amsterdam - 26-27 March 2026
-baseurl: Julia-Finite-Element-Conf-2026/
-url: https://raar1.github.io/
+baseurl: Julia4PDEs-2026/
+url: https://galerkintoolkit.github.io/
 
 permalink: pretty
 theme: jekyll-nagymaros
