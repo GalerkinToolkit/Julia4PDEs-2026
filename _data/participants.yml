@@ -18,7 +18,7 @@ groups:
       - name: Francesc
         surname: Verdugo
         affil: Vrije Universiteit Amsterdam
-  - title: Confirmed Keynote Speakers
+  - title: Confirmed Speakers
     sort: true
     columns: true
     members:
