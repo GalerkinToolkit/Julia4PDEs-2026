@@ -26,8 +26,8 @@ days:
         title: Coffee break
         category: Break
       - time: 15:00 to 16:30
-        title: Talks
-        category: Session
+        title: GalerkinToolkit.jl tutorial
+        category: Tutorial
       - time: 16:30 to 17:30
         title: Drinks
         category: Break
@@ -43,7 +43,7 @@ days:
         title: Lunch
         category: Break
       - time: 13:00 to 14:30
-        title: GalerkinToolkit.jl tutorial
-        category: Tutorial
+        title: Talks
+        category: Session
 
 
