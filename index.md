@@ -25,7 +25,7 @@ a new multi-platform finite element library in Julia. The program will include a
 
 ### Acknowledgment
 
-This workshop is funded by the [Netherlands eScience Center](https://www.esciencecenter.nl/) under grant id,
+This workshop is funded by the [Netherlands eScience Center](https://www.esciencecenter.nl/) under grant id
 [NLESC.SS.2023.008](https://research-software-directory.org/projects/hp2sim).
 
 ---
@@ -42,7 +42,5 @@ You should also register for the workshop.
 
 ### Registration
 Registration for this workshop is **free**. Lunch will be provided by the venue.
-
-If you would also like to give a talk, submit an abstract [here](registration/).
 
 Please register using the following link:
