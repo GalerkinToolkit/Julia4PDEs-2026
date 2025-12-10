@@ -33,7 +33,13 @@ This workshop is funded by the [Netherlands eScience Center](https://www.escienc
 
 Registration for this workshop is **free**. Lunch will be provided by the venue.
 
-In addition to the keynote talks by invited speakers, the workshop will feature contributed talks.
+In addition to the keynote talks by invited speakers, the workshop will feature
+contributed talks (15' + 5' Q&A).
 If you would like to be considered for one of these talks, please send a (max) 250 word abstract.
+ The topic of the presentation is open as long as it has some connection to the Julia programming language,
+ HPC, the tool needed to solve PDEs, or its usage in practical applications and teaching related to PDEs.
 You should also register for the workshop.
+
+**Registration and abstract submission closes on TBD (Amstedam time)**
+
 
