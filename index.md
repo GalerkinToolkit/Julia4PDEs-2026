@@ -31,7 +31,7 @@ This workshop is funded by the [Netherlands eScience Center](https://www.escienc
 
 ### Registration and call for abstracts
 
-Registration for this workshop is **free**. Lunch will be provided by the venue.
+Registration for this workshop is **free**, but mandatory. Lunch will be provided by the venue.
 
 In addition to the keynote talks by invited speakers, the workshop will feature
 contributed talks (15' + 5' Q&A).
