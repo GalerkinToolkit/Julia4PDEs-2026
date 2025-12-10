@@ -12,19 +12,23 @@ HPC, as well as applications like aerospace, civil engineering, and computationa
 A central theme will be to align efforts within the
 community, learn from each other, and identify opportunities for collaboration.
 
+This workshop is hosted by the team developing [GalerkinToolkit.jl](https://github.com/GalerkinToolkit/GalerkinToolkit.jl),
+a new multi-platform finite element library in Julia. The program will include a demo tutorial about this package.
+
 * **When**: 26-27 March 2026
 * **Where**: Vrije Universiteit Amsterdam, NU building. See on the map [here](map/).
 * **What**: See the preliminary program [here](program/)
 * **Who**: Confirmed keynote speakers and organizing committee [here](participants/).
 * **How**: Registration and (optional) abstract submission for presentations are detailed below.
 
-This workshop is hosted by the team developing [GalerkinToolkit.jl](https://github.com/GalerkinToolkit/GalerkinToolkit.jl),
-a new multi-platform finite element library in Julia. The program will include a demo tutorial about this package.
+---
 
 ### Acknowledgment
 
 This workshop is funded by the [Netherlands eScience Center](https://www.esciencecenter.nl/) under grant id,
 [NLESC.SS.2023.008](https://research-software-directory.org/projects/hp2sim).
+
+---
 
 ### Call for abstracts
 
