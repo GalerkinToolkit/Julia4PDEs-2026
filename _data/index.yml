@@ -1,6 +1,6 @@
 alerts:
   - title: "Note"
-    text: Registration is not yet open.
+    text: Registration and call for abstracts are open!
     color: green-1
 buttons:
   - text: Register here
