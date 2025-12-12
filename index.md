@@ -40,9 +40,8 @@ If you would like to be considered for one of these talks, please send a (max) 2
  HPC, the tooling needed to solve PDEs, or its usage in practical applications and teaching related to PDEs.
 You should also register for the workshop.
 
-* **Abstract submission closes on TBD.**
-* **Abstract acceptance will be notified on TBD.**
-* **Registration closes on TBD.**
-
+* **Abstract submission closes on Saturday February 1st 2026, 23:59 ([CET](https://en.wikipedia.org/wiki/Central_European_Time)).**
+* **Abstract acceptance will be notified on TBA.**
+* **Registration closes on Sunday March 8th 2026, 23:59 ([CET](https://en.wikipedia.org/wiki/Central_European_Time)).**
 
 

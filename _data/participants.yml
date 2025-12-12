@@ -17,7 +17,7 @@ groups:
         affil: TU Delft
       - name: Francesc
         surname: Verdugo
-        affil: Vrije Universiteit Amsterdam
+        affil: VU Amsterdam
   - title: Confirmed Speakers
     sort: true
     columns: true
@@ -25,7 +25,10 @@ groups:
       - name: Oriol
         surname: Colomes
         affil: TU Delft
-      - name: Bernal
+      - name: Santiago
+        surname: Badia
+        affil: Monash University
+      - name: Bernat
         surname: Font
         affil: TU Delft
       - name: Knut A.
@@ -42,7 +45,7 @@ groups:
         affil: TU Delft
       - name: Francesc
         surname: Verdugo
-        affil: Vrije Universiteit Amsterdam
+        affil: VU Amsterdam
       - name: Andrew
         surname: Winters
         affil: LIU
