@@ -40,8 +40,11 @@ groups:
       - name: Ludovic
         surname: Raess
         affil: UNIL
-      - name: Deepesh
-        surname: Toshniwal
+      - name: Diogo
+        surname: Cabanas
+        affil: TU Delft
+      - name: Joey
+        surname: Dekker
         affil: TU Delft
       - name: Francesc
         surname: Verdugo
