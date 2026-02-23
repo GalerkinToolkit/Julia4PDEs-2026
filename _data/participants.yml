@@ -22,30 +22,54 @@ groups:
     sort: true
     columns: true
     members:
-      - name: Oriol
-        surname: Colomes
-        affil: TU Delft
+      - name: Daniele
+        surname: Avitabile
+        affil: VU Amsterdam
       - name: Santiago
         surname: Badia
         affil: Monash University
+      - name: Carlo
+        surname: Brunelli
+        affil: Royal Military Academy
+      - name: Kristof
+        surname: Cools
+        affil: Ghent University
+      - name: Diogo
+        surname: Costa Cabanas
+        affil: TU Delft
+      - name: Simon
+        surname: Danish
+        affil: Makie Org
       - name: Bernat
         surname: Font
         affil: TU Delft
+      - name: Domenico
+        surname: Lahaye
+        affil: TU Delft
+      - name: Louis
+        surname: Libat
+        affil: Gustave Eiffel University
+      - name: Christian
+        surname: Merdon
+        affil: WIAS Berlin
       - name: Knut A.
         surname: Meyer
         affil: Chalmers University of Technology
-      - name: Artur
-        surname: Palha
-        affil: TU Delft
+      - name: Xiaowei
+        surname: Ouyang
+        affil: VU Amsterdam
       - name: Ludovic
         surname: Raess
         affil: UNIL
-      - name: Deepesh
-        surname: Toshniwal
-        affil: TU Delft
       - name: Francesc
         surname: Verdugo
         affil: VU Amsterdam
+      - name: Zachary J.
+        surname: Wegert
+        affil: Queensland University of Technology
+      - name: Gabe
+        surname: Weymouth
+        affil: TU Delft
       - name: Andrew
         surname: Winters
         affil: LIU
