@@ -4,13 +4,13 @@ legend:
     - name: Break
       color: black-6
     - name: Keynote
-      color: green-6
+      color: teal-6
     - name: Talk
       color: blue-6
     - name: Tutorial
-      color: red-6
-    - name: Misc
       color: yellow-6
+    - name: Misc
+      color: pink-6
 days:
   - name: Thursday March 26th (NU-Building, Theater 5)
     events:
@@ -21,10 +21,12 @@ days:
         title: Welcome speech
         category: Misc
       - time: 10:30 to 11:00
-        title: Keynote
+        title: Recent Advances in the Gridap Ecosystem: Scalable Solvers, Hybrid Methods, and Model Reduction 
+        subtitle: Santiago Badia*, Jordi Manyer, and Nicholas Mueller
         category: Keynote
       - time: 11:00 to 11:20
-        title: Talk
+        title: Mantis.jl: a structure-preserving FEEC library
+        subtitile: D. Costa Cabanas*, J. Dekker, A. Palha., and D. Toshniwal
         category: Talk
       - time: 11:20 to 11:40
         title: Talk
