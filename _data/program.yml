@@ -2,7 +2,7 @@ legend:
   title: Legend
   categories:
     - name: Break
-      color: yellow-6
+      color: black-6
     - name: Keynote
       color: green-6
     - name: Talk
@@ -10,7 +10,7 @@ legend:
     - name: Tutorial
       color: red-6
     - name: Misc
-      color: pink-6
+      color: yellow-6
 days:
   - name: Thursday March 26th (NU-Building, Theater 5)
     events:
