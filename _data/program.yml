@@ -25,8 +25,8 @@ days:
         subtitle: Santiago Badia*, Jordi Manyer, and Nicholas Mueller
         category: Keynote
       - time: 11:00 to 11:20
-        title: Talk
-        subtitle: Oriol Colomés*
+        title: "Penguin.jl: a Julia code for cut-cell finite-volume PDEs discretization with sharp interfaces".
+        subtitle: Louis Libat*, Vincent Le Chenadec, Can Selçuk, and Eric Chénier
         category: Talk
       - time: 11:20 to 11:40
         title: "BEAST.jl: Boundary Element Analysis and Simulation Toolkit"
@@ -44,7 +44,7 @@ days:
         category: Break
       - time: 13:10 to 13:30
         title: "WIAS-PDELib: A Julia PDE solver ecosystem"
-        subtitle: Christian Merdon, Patrick Jaap, and Jürgen Fuhrmann
+        subtitle: Christian Merdon*, Patrick Jaap, and Jürgen Fuhrmann
         category: Talk
       - time: 13:30 to 14:00
         title: Keynote
@@ -59,7 +59,7 @@ days:
         category: Break
       - time: 15:00 to 15:30
         title: Keynote
-        subtitle:
+        subtitle: Francesc Verdugo*
         category: Keynote
       - time: 15:30 to 15:50
         title: "Towards expressive and efficient Finite Element code generation in Julia: the progress of GalerkinToolkit form compiler"
@@ -77,39 +77,39 @@ days:
         title: Walk-in and Coffee
         category: Break
       - time: 10:30 to 11:00
-        title: Keynote
-        subtitle:
+        title: "The Future of Makie: Raytracing and Beyond"
+        subtitle: Simon Danisch*
         category: Keynote
       - time: 11:00 to 11:20
-        title: Talk
-        subtitle:
+        title: "Shape and topology optimisation with GridapTopOpt"
+        subtitle: Zachary J Wegert*, Jordi Manyer, Connor Mallon, Santiago Badia, and Vivien J Challis
         category: Talk
       - time: 11:20 to 11:40
-        title: Talk
-        subtitle:
+        title: "Large-Eddy Simulation in Julia with Gridap"
+        subtitle: Carlo Brunelli* and Bart Janssens
         category: Talk
       - time: 11:40 to 12:00
         title: Talk
-        subtitle:
+        subtitle: Oriol Colomés*
         category: Talk
       - time: 12:00 to 13:00
         title: Lunch
         category: Break
       - time: 13:00 to 13:30
         title: Keynote
-        subtitle:
+        subtitle: Andrew Winters*
         category: Keynote
       - time: 13:30 to 14:00
         title: Keynote
-        subtitle:
+        subtitle: Ludovic Raess*
         category: Keynote
       - time: 14:00 to 14:20
-        title: Talk
-        subtitle:
+        title: "Numerical methods for neurobiological networks"
+        subtitle: Daniele Avitabile*
         category: Talk
       - time: 14:20 to 14:40
-        title: Talk
-        subtitle:
+        title: "Modeling Flying Carpets in Ferrite"
+        subtitle: Domenico Lahaye*
         category: Talk
       - time: 14:40 to 14:45
         title: Closing speech
