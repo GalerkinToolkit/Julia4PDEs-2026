@@ -25,7 +25,7 @@ days:
         subtitle: Santiago Badia*, Jordi Manyer, and Nicholas Mueller
         category: Keynote
       - time: 11:00 to 11:20
-        title: "Penguin.jl: a Julia code for cut-cell finite-volume PDEs discretization with sharp interfaces".
+        title: "Penguin.jl: a Julia code for cut-cell finite-volume PDEs discretization with sharp interfaces"
         subtitle: Louis Libat*, Vincent Le Chenadec, Can Selçuk, and Eric Chénier
         category: Talk
       - time: 11:20 to 11:40
