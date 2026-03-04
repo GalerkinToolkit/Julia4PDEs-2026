@@ -26,13 +26,15 @@ days:
         category: Keynote
       - time: 11:00 to 11:20
         title: "Mantis.jl: a structure-preserving FEEC library"
-        subtitile: D. Costa Cabanas*, J. Dekker, A. Palha., and D. Toshniwal
+        subtitle: D. Costa Cabanas*, J. Dekker, A. Palha., and D. Toshniwal
         category: Talk
       - time: 11:20 to 11:40
-        title: Talk
-        category: Talk
+        title: "BEAST.jl: Boundary Element Analysis and Simulation Toolkit"
+        subtitle: Kristof Cools*
+        category: 
       - time: 11:40 to 12:00
         title: Talk
+        subtitle: Oriol Colomés
         category: Talk
       - time: 12:00 to 12:10
         title: Group picture
@@ -41,22 +43,27 @@ days:
         title: Lunch
         category: Break
       - time: 13:10 to 13:30
-        title: Talk
+        title: "WIAS-PDELib: A Julia PDE solver ecosystem"
+        subtitle:
         category: Talk
       - time: 13:30 to 14:00
         title: Keynote
+        subtitle:
         category: Keynote
       - time: 14:00 to 14:30
         title: Keynote
+        subtitle:
         category: Keynote
       - time: 14:30 to 15:00
         title: Coffee break
         category: Break
       - time: 15:00 to 15:30
         title: Keynote
+        subtitle:
         category: Keynote
       - time: 15:30 to 15:50
         title: Talk
+        subtitle:
         category: Talk
       - time: 15:50 to 16:30
         title: GalerkinToolkit.jl tutorial
@@ -71,33 +78,40 @@ days:
         category: Break
       - time: 10:30 to 11:00
         title: Keynote
+        subtitle:
         category: Keynote
       - time: 11:00 to 11:20
         title: Talk
+        subtitle:
         category: Talk
       - time: 11:20 to 11:40
         title: Talk
+        subtitle:
         category: Talk
       - time: 11:40 to 12:00
         title: Talk
+        subtitle:
         category: Talk
       - time: 12:00 to 13:00
         title: Lunch
         category: Break
       - time: 13:00 to 13:30
         title: Keynote
+        subtitle:
         category: Keynote
       - time: 13:30 to 14:00
         title: Keynote
+        subtitle:
         category: Keynote
       - time: 14:00 to 14:20
         title: Talk
+        subtitle:
         category: Talk
       - time: 14:20 to 14:40
         title: Talk
+        subtitle:
         category: Talk
       - time: 14:40 to 14:45
         title: Closing speech
         category: Misc
-
 
