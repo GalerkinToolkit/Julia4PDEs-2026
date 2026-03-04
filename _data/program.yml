@@ -3,47 +3,99 @@ legend:
   categories:
     - name: Break
       color: yellow-6
-    - name: Session
+    - name: Keynote
       color: green-6
+    - name: Talk
+      color: blue-6
     - name: Tutorial
       color: red-6
+    - name: Misc
+      color: pink-6
 days:
-  - name: Day 1
+  - name: Thursday March 26th (NU-Building, Theater 5)
     events:
-      - time: 10:00 to 10:30
-        title: Registration & coffee
+      - time: 10:00 to 10:20
+        title: Walk-in & coffee
         category: Break
-      - time: 10:30 to 12:00
-        title: Talks
-        category: Session
-      - time: 12:00 to 13:00
+      - time: 10:20 to 10:30
+        title: Welcome speech
+        category: Misc
+      - time: 10:30 to 11:00
+        title: Keynote
+        category: Keynote
+      - time: 11:00 to 11:20
+        title: Talk
+        category: Talk
+      - time: 11:20 to 11:40
+        title: Talk
+        category: Talk
+      - time: 11:40 to 12:00
+        title: Talk
+        category: Talk
+      - time: 12:00 to 12:10
+        title: Group picture
+        category: Misc
+      - time: 12:10 to 13:10
         title: Lunch
         category: Break
-      - time: 13:00 to 14:30
-        title: Talks
-        category: Session
+      - time: 13:10 to 13:30
+        title: Talk
+        category: Talk
+      - time: 13:30 to 14:00
+        title: Keynote
+        category: Keynote
+      - time: 14:00 to 14:30
+        title: Keynote
+        category: Keynote
       - time: 14:30 to 15:00
         title: Coffee break
         category: Break
-      - time: 15:00 to 16:30
+      - time: 15:00 to 15:30
+        title: Keynote
+        category: Keynote
+      - time: 15:30 to 15:50
+        title: Talk
+        category: Talk
+      - time: 15:50 to 16:30
         title: GalerkinToolkit.jl tutorial
         category: Tutorial
       - time: 16:30 to 17:30
         title: Drinks
         category: Break
-  - name: Day 2
+  - name: Friday March 27th (NU-Building, Theater 8)
     events:
       - time: 10:00 to 10:30
         title: Walk-in and Coffee
         category: Break
-      - time: 10:30 to 12:00
-        title: Talks
-        category: Session
+      - time: 10:30 to 11:00
+        title: Keynote
+        category: Keynote
+      - time: 11:00 to 11:20
+        title: Talk
+        category: Talk
+      - time: 11:20 to 11:40
+        title: Talk
+        category: Talk
+      - time: 11:40 to 12:00
+        title: Talk
+        category: Talk
       - time: 12:00 to 13:00
         title: Lunch
         category: Break
-      - time: 13:00 to 14:30
-        title: Talks
-        category: Session
+      - time: 13:00 to 13:30
+        title: Keynote
+        category: Keynote
+      - time: 13:30 to 14:00
+        title: Keynote
+        category: Keynote
+      - time: 14:00 to 14:20
+        title: Talk
+        category: Talk
+      - time: 14:20 to 14:40
+        title: Talk
+        category: Talk
+      - time: 14:40 to 14:45
+        title: Closing speech
+        category: Misc
 
 
