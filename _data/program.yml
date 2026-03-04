@@ -58,11 +58,11 @@ days:
         title: Coffee break
         category: Break
       - time: 15:00 to 15:30
-        title: Keynote
+        title: "GalerkinToolkit.jl: Towards a multi-level Finite Element API for CPUs and GPUs."
         subtitle: Francesc Verdugo*
         category: Keynote
       - time: 15:30 to 15:50
-        title: "Towards expressive and efficient Finite Element code generation in Julia: the progress of GalerkinToolkit form compiler"
+        title: "Expressive and efficient Finite Element code generation in Julia: the progress of GalerkinToolkit form compiler"
         subtitle: Xiaowei Ouyang*, Francesc Verdugo, and Tiziano De Matteis
         category: Talk
       - time: 15:50 to 16:30
