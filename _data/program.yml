@@ -22,19 +22,19 @@ days:
         category: Misc
       - time: 10:30 to 11:00
         title: "Recent Advances in the Gridap Ecosystem: Scalable Solvers, Hybrid Methods, and Model Reduction"
-        subtitle: Santiago Badia*, Jordi Manyer, and Nicholas Mueller
+        subtitle: "Santiago Badia*, Jordi Manyer, and Nicholas Mueller. Chair: Deepesh Toshniwal"
         category: Keynote
       - time: 11:00 to 11:20
         title: "Penguin.jl: a Julia code for cut-cell finite-volume PDEs discretization with sharp interfaces"
-        subtitle: Louis Libat*, Vincent Le Chenadec, Can Selçuk, and Eric Chénier
+        subtitle: "Louis Libat*, Vincent Le Chenadec, Can Selçuk, and Eric Chénier. Chair: Deepesh Toshniwal"
         category: Talk
       - time: 11:20 to 11:40
         title: "BEAST.jl: Boundary Element Analysis and Simulation Toolkit"
-        subtitle: Kristof Cools*
+        subtitle: "Kristof Cools*. Chair: Deepesh Toshniwal"
         category: Talk
       - time: 11:40 to 12:00
         title: "Mantis.jl: a structure-preserving FEEC library"
-        subtitle: D. Costa Cabanas*, J. Dekker, A. Palha., and D. Toshniwal
+        subtitle: "D. Costa Cabanas*, J. Dekker, A. Palha., and D. Toshniwal. Chair: Deepesh Toshniwal"
         category: Talk
       - time: 12:00 to 12:10
         title: Group picture
@@ -44,29 +44,30 @@ days:
         category: Break
       - time: 13:10 to 13:30
         title: "WIAS-PDELib: A Julia PDE solver ecosystem"
-        subtitle: Christian Merdon*, Patrick Jaap, and Jürgen Fuhrmann
+        subtitle: "Christian Merdon*, Patrick Jaap, and Jürgen Fuhrmann. Chair: Artur Palha"
         category: Talk
       - time: 13:30 to 14:00
-        title: Keynote
-        subtitle: Knut A. Meyer*
+        title: Keynote (Ferrite.jl)
+        subtitle: "Knut A. Meyer*. Chair: Artur Palha"
         category: Keynote
       - time: 14:00 to 14:30
         title: "WaterLily.jl: An incompressible flow solver for dynamic bodies running seamlessly on CPU/GPU"
-        subtitle: Bernat Font* and Gabe Weymouth*
+        subtitle: "Bernat Font* and Gabe Weymouth*. Chair: Artur Palha"
         category: Keynote
       - time: 14:30 to 15:00
         title: Coffee break
         category: Break
       - time: 15:00 to 15:30
         title: "GalerkinToolkit.jl: Towards a multi-level Finite Element API for CPUs and GPUs."
-        subtitle: Francesc Verdugo*
+        subtitle: "Francesc Verdugo*. Chair: Robin Richardson"
         category: Keynote
       - time: 15:30 to 15:50
         title: "Expressive and efficient Finite Element code generation in Julia: the progress of GalerkinToolkit form compiler"
-        subtitle: Xiaowei Ouyang*, Francesc Verdugo, and Tiziano De Matteis
+        subtitle: "Xiaowei Ouyang*, Francesc Verdugo, and Tiziano De Matteis. Chair: Robin Richardson"
         category: Talk
       - time: 15:50 to 16:30
         title: GalerkinToolkit.jl tutorial
+        subtitle: "Francesc Verdugo*. Chair: Robin Richardson"
         category: Tutorial
       - time: 16:30 to 17:30
         title: Drinks
@@ -78,38 +79,38 @@ days:
         category: Break
       - time: 10:30 to 11:00
         title: "The Future of Makie: Raytracing and Beyond"
-        subtitle: Simon Danisch*
+        subtitle: "Simon Danisch*. Chair: Francesc Verdugo"
         category: Keynote
       - time: 11:00 to 11:20
         title: "Shape and topology optimisation with GridapTopOpt"
-        subtitle: Zachary J Wegert*, Jordi Manyer, Connor Mallon, Santiago Badia, and Vivien J Challis
+        subtitle: "Zachary J Wegert*, Jordi Manyer, Connor Mallon, Santiago Badia, and Vivien J Challis. Chair: Francesc Verdugo"
         category: Talk
       - time: 11:20 to 11:40
         title: "Large-Eddy Simulation in Julia with Gridap"
-        subtitle: Carlo Brunelli* and Bart Janssens
+        subtitle: "Carlo Brunelli* and Bart Janssens. Chair: Francesc Verdugo"
         category: Talk
       - time: 11:40 to 12:00
         title: Talk
-        subtitle: Oriol Colomés*
+        subtitle: "Oriol Colomés*. Chair: Francesc Verdugo"
         category: Talk
       - time: 12:00 to 13:00
         title: Lunch
         category: Break
       - time: 13:00 to 13:30
-        title: Keynote
-        subtitle: Andrew Winters*
+        title: Keynote (Trixi.jl)
+        subtitle: "Andrew Winters*. Chair: Oriol Colomés"
         category: Keynote
       - time: 13:30 to 14:00
-        title: Keynote
-        subtitle: Ludovic Raess*
+        title: Keynote (GPU4GEO)
+        subtitle: "Ludovic Raess*. Chair: Oriol Colomés"
         category: Keynote
       - time: 14:00 to 14:20
         title: "Numerical methods for neurobiological networks"
-        subtitle: Daniele Avitabile*
+        subtitle: "Daniele Avitabile*. Chair: Oriol Colomés"
         category: Talk
       - time: 14:20 to 14:40
         title: "Modeling Flying Carpets in Ferrite"
-        subtitle: Domenico Lahaye*
+        subtitle: "Domenico Lahaye*. Chair: Oriol Colomés"
         category: Talk
       - time: 14:40 to 14:45
         title: Closing speech
