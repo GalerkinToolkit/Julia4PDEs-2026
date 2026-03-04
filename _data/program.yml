@@ -25,16 +25,16 @@ days:
         subtitle: Santiago Badia*, Jordi Manyer, and Nicholas Mueller
         category: Keynote
       - time: 11:00 to 11:20
-        title: "Mantis.jl: a structure-preserving FEEC library"
-        subtitle: D. Costa Cabanas*, J. Dekker, A. Palha., and D. Toshniwal
+        title: Talk
+        subtitle: Oriol Colomés*
         category: Talk
       - time: 11:20 to 11:40
         title: "BEAST.jl: Boundary Element Analysis and Simulation Toolkit"
         subtitle: Kristof Cools*
-        category: 
+        category: Talk
       - time: 11:40 to 12:00
-        title: Talk
-        subtitle: Oriol Colomés
+        title: "Mantis.jl: a structure-preserving FEEC library"
+        subtitle: D. Costa Cabanas*, J. Dekker, A. Palha., and D. Toshniwal
         category: Talk
       - time: 12:00 to 12:10
         title: Group picture
@@ -44,15 +44,15 @@ days:
         category: Break
       - time: 13:10 to 13:30
         title: "WIAS-PDELib: A Julia PDE solver ecosystem"
-        subtitle:
+        subtitle: Christian Merdon, Patrick Jaap, and Jürgen Fuhrmann
         category: Talk
       - time: 13:30 to 14:00
         title: Keynote
-        subtitle:
+        subtitle: Knut A. Meyer*
         category: Keynote
       - time: 14:00 to 14:30
-        title: Keynote
-        subtitle:
+        title: "WaterLily.jl: An incompressible flow solver for dynamic bodies running seamlessly on CPU/GPU"
+        subtitle: Bernat Font* and Gabe Weymouth*
         category: Keynote
       - time: 14:30 to 15:00
         title: Coffee break
@@ -62,8 +62,8 @@ days:
         subtitle:
         category: Keynote
       - time: 15:30 to 15:50
-        title: Talk
-        subtitle:
+        title: "Towards expressive and efficient Finite Element code generation in Julia: the progress of GalerkinToolkit form compiler"
+        subtitle: Xiaowei Ouyang*, Francesc Verdugo, and Tiziano De Matteis
         category: Talk
       - time: 15:50 to 16:30
         title: GalerkinToolkit.jl tutorial
