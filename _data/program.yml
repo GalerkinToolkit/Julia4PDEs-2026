@@ -47,7 +47,7 @@ days:
         subtitle: "Christian Merdon*, Patrick Jaap, and Jürgen Fuhrmann. Chair: Artur Palha"
         category: Talk
       - time: 13:30 to 14:00
-        title: Keynote (Ferrite.jl)
+        title: "Ferrite.jl: A modular and efficient finite element toolbox"
         subtitle: "Knut A. Meyer*. Chair: Artur Palha"
         category: Keynote
       - time: 14:00 to 14:30
