@@ -49,6 +49,6 @@ You should also register for the workshop.
 
 * **Abstract submission closed on February 1st 2026, 23:59 ([CET](https://en.wikipedia.org/wiki/Central_European_Time)).**
 * **Abstract acceptance was notified on February 9th 2026.**
-* **Registration closes on March 8th 2026, 23:59 ([CET](https://en.wikipedia.org/wiki/Central_European_Time)).**
+* **Registration closed on March 8th 2026, 23:59 ([CET](https://en.wikipedia.org/wiki/Central_European_Time)).**
 
 
