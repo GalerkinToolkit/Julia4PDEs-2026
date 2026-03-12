@@ -12,13 +12,15 @@ legend:
     - name: Misc
       color: pink-6
 days:
-  - name: Thursday March 26th (NU-Building, Theater 5)
+  - name: Thursday March 26th (NU-Building, 2nd floor, Theater 5)
     events:
       - time: 10:00 to 10:20
         title: Walk-in & coffee
+        subtitle: "Location: 2nd floor, Lobby Campus Square. Same location for all breaks on Thursday."
         category: Break
       - time: 10:20 to 10:30
         title: Welcome speech
+        subtitle: "Location: 2nd floor, Theater 5. Same location for all talks on Thursday."
         category: Misc
       - time: 10:30 to 11:00
         title: "Recent Advances in the Gridap Ecosystem: Scalable Solvers, Hybrid Methods, and Model Reduction"
@@ -74,9 +76,14 @@ days:
         category: Break
   - name: Friday March 27th (NU-Building, Theater 8)
     events:
-      - time: 10:00 to 10:30
+      - time: 10:00 to 10:25
         title: Walk-in and Coffee
+        subtitle: "Location: Lobby Theater. Same location for all breaks on Friday."
         category: Break
+      - time: 10:25 to 10:30
+        title: "Day 2 introduction"
+        subtitle: "Location: Theater 8. Same location for all talks on Friday."
+        category: Misc
       - time: 10:30 to 11:00
         title: "The Future of Makie: Raytracing and Beyond"
         subtitle: "Simon Danisch*. Chair: Francesc Verdugo"
