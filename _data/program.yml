@@ -20,7 +20,7 @@ days:
         category: Break
       - time: 10:20 to 10:30
         title: Welcome speech
-        subtitle: "Location: 2nd floor, Theater 5. Same location for all talks on Thursday."
+        subtitle: "Location: 2nd floor, Theater 5. Same location for all presentations on Thursday."
         category: Misc
       - time: 10:30 to 11:00
         title: "Recent Advances in the Gridap Ecosystem: Scalable Solvers, Hybrid Methods, and Model Reduction"
@@ -82,7 +82,7 @@ days:
         category: Break
       - time: 10:25 to 10:30
         title: "Day 2 introduction"
-        subtitle: "Location: 4th floor, Theater 8. Same location for all talks on Friday."
+        subtitle: "Location: 4th floor, Theater 8. Same location for all presentations on Friday."
         category: Misc
       - time: 10:30 to 11:00
         title: "The Future of Makie: Raytracing and Beyond"
