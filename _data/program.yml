@@ -74,15 +74,15 @@ days:
       - time: 16:30 to 17:30
         title: Drinks
         category: Break
-  - name: Friday March 27th (NU-Building, Theater 8)
+  - name: Friday March 27th (NU-Building, 4th floor, Theater 8)
     events:
       - time: 10:00 to 10:25
         title: Walk-in and Coffee
-        subtitle: "Location: Lobby Theater. Same location for all breaks on Friday."
+        subtitle: "Location: 4th floor, Lobby Theater. Same location for all breaks on Friday."
         category: Break
       - time: 10:25 to 10:30
         title: "Day 2 introduction"
-        subtitle: "Location: Theater 8. Same location for all talks on Friday."
+        subtitle: "Location: 4th floor, Theater 8. Same location for all talks on Friday."
         category: Misc
       - time: 10:30 to 11:00
         title: "The Future of Makie: Raytracing and Beyond"
