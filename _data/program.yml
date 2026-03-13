@@ -108,7 +108,7 @@ days:
         subtitle: "Andrew Winters*. Chair: Oriol Colomés"
         category: Keynote
       - time: 13:30 to 14:00
-        title: Keynote (GPU4GEO)
+        title: "PDEs meet GPUs: when Julia tackles hardware limit"
         subtitle: "Ludovic Raess*. Chair: Oriol Colomés"
         category: Keynote
       - time: 14:00 to 14:20
