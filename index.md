@@ -51,4 +51,8 @@ You should also register for the workshop.
 * **Abstract acceptance was notified on February 9th 2026.**
 * **Registration closed on March 8th 2026, 23:59 ([CET](https://en.wikipedia.org/wiki/Central_European_Time)).**
 
+---
 
+Julia4PDEs-2026 brought the community together for two days of excellent technical insights and collaborative networking in a friendly atmosphere.
+
+![Group picture](/assets/img/group_picture.jpeg)
