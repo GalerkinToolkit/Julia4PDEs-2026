@@ -21,18 +21,22 @@ days:
       - time: 10:20 to 10:30
         title: Welcome speech
         subtitle: "Location: 2nd floor, Theater 5. Same location for all presentations on Thursday."
+        slides: /assets/slides/Welcome.pdf
         category: Misc
       - time: 10:30 to 11:00
         title: "Recent Advances in the Gridap Ecosystem: Scalable Solvers, Hybrid Methods, and Model Reduction"
         subtitle: "Santiago Badia*, Jordi Manyer, and Nicholas Mueller. Chair: Deepesh Toshniwal"
+        slides: /assets/slides/Mueller.pdf
         category: Keynote
       - time: 11:00 to 11:20
         title: "Penguin.jl: a Julia code for cut-cell finite-volume PDEs discretization with sharp interfaces"
         subtitle: "Louis Libat*, Vincent Le Chenadec, Can Selçuk, and Eric Chénier. Chair: Deepesh Toshniwal"
+        slides: /assets/slides/Libat.pdf
         category: Talk
       - time: 11:20 to 11:40
         title: "BEAST.jl: Boundary Element Analysis and Simulation Toolkit"
         subtitle: "Kristof Cools*. Chair: Deepesh Toshniwal"
+        slides: /assets/slides/Cools.pdf
         category: Talk
       - time: 11:40 to 12:00
         title: "Mantis.jl: a structure-preserving FEEC library"
@@ -47,6 +51,7 @@ days:
       - time: 13:10 to 13:30
         title: "WIAS-PDELib: A Julia PDE solver ecosystem"
         subtitle: "Christian Merdon*, Patrick Jaap, and Jürgen Fuhrmann. Chair: Artur Palha"
+        slides: /assets/slides/Merdon-1.jl
         category: Talk
       - time: 13:30 to 14:00
         title: "Ferrite.jl: A modular and efficient finite element toolbox"
@@ -62,14 +67,17 @@ days:
       - time: 15:00 to 15:30
         title: "GalerkinToolkit.jl: Towards a multi-level Finite Element API for CPUs and GPUs."
         subtitle: "Francesc Verdugo*. Chair: Robin Richardson"
+        slides: /assets/slides/Verdugo.pdf
         category: Keynote
       - time: 15:30 to 15:50
         title: "Expressive and efficient Finite Element code generation in Julia: the progress of GalerkinToolkit form compiler"
         subtitle: "Xiaowei Ouyang*, Francesc Verdugo, and Tiziano De Matteis. Chair: Robin Richardson"
+        slides: /assets/slides/Ouyang.pdf
         category: Talk
       - time: 15:50 to 16:30
         title: GalerkinToolkit.jl tutorial
         subtitle: "Francesc Verdugo*. Chair: Robin Richardson"
+        slides: /assets/slides/GalerkinToolkit_demo.pdf
         category: Tutorial
       - time: 16:30 to 17:30
         title: Drinks
@@ -87,14 +95,17 @@ days:
       - time: 10:30 to 11:00
         title: "The Future of Makie: Raytracing and Beyond"
         subtitle: "Simon Danisch*. Chair: Francesc Verdugo"
+        slides: /assets/slides/Danish.pdf
         category: Keynote
       - time: 11:00 to 11:20
         title: "Shape and topology optimisation with GridapTopOpt"
         subtitle: "Zachary J Wegert*, Jordi Manyer, Connor Mallon, Santiago Badia, and Vivien J Challis. Chair: Francesc Verdugo"
+        slides: /assets/slides/Wegert.pdf
         category: Talk
       - time: 11:20 to 11:40
         title: "Large-Eddy Simulation in Julia with Gridap"
         subtitle: "Carlo Brunelli* and Bart Janssens. Chair: Francesc Verdugo"
+        slides: /assets/slides/Brunelli.pdf
         category: Talk
       - time: 11:40 to 12:00
         title: Talk
@@ -106,10 +117,12 @@ days:
       - time: 13:00 to 13:30
         title: "PDEs meet GPUs: when Julia tackles hardware limit"
         subtitle: "Ludovic Raess*. Chair: Oriol Colomés"
+        slides: /assets/slides/Raes.pdf
         category: Keynote
       - time: 13:30 to 14:00
         title: "Trixi.jl: High-performance numerical simulation framework for PDEs"
         subtitle: "Andrew Winters*. Chair: Oriol Colomés"
+        slides: /assets/slides/Winters.pdf
         category: Keynote
       - time: 14:00 to 14:20
         title: "Numerical methods for neurobiological networks"
