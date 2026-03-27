@@ -104,12 +104,12 @@ days:
         title: Lunch
         category: Break
       - time: 13:00 to 13:30
-        title: "Trixi.jl: High-performance numerical simulation framework for PDEs"
-        subtitle: "Andrew Winters*. Chair: Oriol Colomés"
-        category: Keynote
-      - time: 13:30 to 14:00
         title: "PDEs meet GPUs: when Julia tackles hardware limit"
         subtitle: "Ludovic Raess*. Chair: Oriol Colomés"
+        category: Keynote
+      - time: 13:30 to 14:00
+        title: "Trixi.jl: High-performance numerical simulation framework for PDEs"
+        subtitle: "Andrew Winters*. Chair: Oriol Colomés"
         category: Keynote
       - time: 14:00 to 14:20
         title: "Numerical methods for neurobiological networks"
