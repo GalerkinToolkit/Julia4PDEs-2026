@@ -56,3 +56,16 @@ You should also register for the workshop.
 Julia4PDEs-2026 brought the community together for two days of excellent technical insights and collaborative networking.
 
 ![Group picture](https://raw.githubusercontent.com/GalerkinToolkit/Julia4PDEs-2026/refs/heads/main/assets/img/group_picture.jpeg){: style="max-width: 90%; height: auto;"}
+
+---
+
+### Gallery
+
+<div class="workshop-gallery">
+  {% for image in site.data.gallery %}
+  <a href="{{ image.url }}" class="lightbox-link">
+    <img src="{{ image.url }}" alt="{{ image.alt }}">
+  </a>
+  {% endfor %}
+</div>
+

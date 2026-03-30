@@ -1,0 +1,49 @@
+---
+# This front matter (the dashes) tells Jekyll to process this file as SCSS
+---
+
+// 1. Import the theme's default styles
+@import "jekyll-theme-nagymaros";
+
+// 2. Global Image Handling (Automatic Width)
+// This ensures no image ever "breaks" your layout
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+  border-radius: 4px;
+}
+
+// 3. Workshop Gallery Grid
+// This styles the grid created by your Liquid loop
+.workshop-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 15px;
+  margin: 2rem 0;
+}
+
+.workshop-gallery img {
+  width: 100%;
+  height: 200px;        /* Fixed height for a clean grid */
+  object-fit: cover;    /* Crops images to fill the 200px height perfectly */
+  margin: 0;            /* Removes the global margin for gallery items */
+  transition: transform 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.workshop-gallery img:hover {
+  transform: scale(1.03);
+  filter: brightness(90%);
+}
+
+// 4. Lightbox Caption Styling (Optional)
+// If you decide to add captions later, this makes them look nice
+.luminous-caption {
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
