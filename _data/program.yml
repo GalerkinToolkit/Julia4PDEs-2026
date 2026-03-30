@@ -108,8 +108,10 @@ days:
         slides: /assets/slides/Brunelli.pdf
         category: Talk
       - time: 11:40 to 12:00
-        title: Talk
+        title: "Exploiting the Gridap.jl ecosystem to solve complex PDEs
+        for engineering problems"
         subtitle: "Oriol Colomés*. Chair: Francesc Verdugo"
+        slides: /assets/slides/Colomes.pdf
         category: Talk
       - time: 12:00 to 13:00
         title: Lunch
