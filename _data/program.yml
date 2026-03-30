@@ -60,6 +60,7 @@ days:
       - time: 14:00 to 14:30
         title: "WaterLily.jl: An incompressible flow solver for dynamic bodies running seamlessly on CPU/GPU"
         subtitle: "Bernat Font* and Gabe Weymouth*. Chair: Artur Palha"
+        slides: /assets/slides/Font.pdf
         category: Keynote
       - time: 14:30 to 15:00
         title: Coffee break
