@@ -120,7 +120,7 @@ days:
       - time: 13:00 to 13:30
         title: "PDEs meet GPUs: when Julia tackles hardware limit"
         subtitle: "Ludovic Raess*. Chair: Oriol Colomés"
-        slides: /assets/slides/Raes.pdf
+        slides: /assets/slides/Raess.pdf
         category: Keynote
       - time: 13:30 to 14:00
         title: "Trixi.jl: High-performance numerical simulation framework for PDEs"
